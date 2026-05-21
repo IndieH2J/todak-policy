@@ -11,6 +11,7 @@ permalink: /
 ## 정책 문서
 
 - [개인정보처리방침](/privacy/)
+- [계정 및 데이터 삭제 요청](/data-deletion/)
 
 ## 문의
 
