@@ -1,0 +1,30 @@
+title: 토닥 정책
+description: 토닥(Todak) 앱의 개인정보처리방침 및 정책 문서
+author: indieh2j
+email: indieh2j@gmail.com
+
+# Build settings
+theme: minima
+markdown: kramdown
+permalink: /:title/
+
+# Locale
+lang: ko-KR
+
+# Files to include/exclude
+exclude:
+  - README.md
+  - design-prompts.md
+  - long-description.md
+  - play-console-answers.md
+  - screenshots/
+  - icon-*.png
+  - icon-*.svg
+  - feature-graphic-*.png
+  - feature-graphic-*.jpg
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
